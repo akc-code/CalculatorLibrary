@@ -1,0 +1,10 @@
+codecov:
+  bot: "akc.code"
+
+coverage:
+  status:
+    project:
+      default:
+        target: 50%
+        threshold: 1%
+    patch: off
